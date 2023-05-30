@@ -1,5 +1,7 @@
-# alzheimer-disease-detection_using_AI
+# Alzheimer's Disease
 Alzheimer's Disease is a type of dementia more common in older adults, which is progressive from mild memory loss to loss of various day-to-day functions. It does not have a cure but we can help people suffering from it if we are able to detect it early.
+
+# Alzheimer Disease Detection Using AI
 Implementing artificial intelligence methods to detection Alzheimer’s disease as early as possible for the patient.
 Here we have appliad CNN on 2d MRI Images of pateints for this study.
 We have divided the images into 3 classes - Non-demented (CN-Cognitively Normal), Very Mild Demented (MCI-Mild Cognitive Impairment) and Mild Demented (AD-Alzheimer's Disease).
